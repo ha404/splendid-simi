@@ -74,7 +74,7 @@ var ParkingAssist = React.createClass({
       <View style={styles.container}>
         <View style={styles.header}>
           <Text style={styles.title}>
-            PARKING ASSIST
+            PRK
           </Text>
         </View>
         <View style={styles.map}>
